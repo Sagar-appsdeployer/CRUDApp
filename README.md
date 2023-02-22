@@ -1,0 +1,1 @@
+# CRUDApp So ,I created a reactapp and i used AsyncThunk to fetch the data from JSON Placeholder data(Post) , where user can fetchpost by ID and that particular post will be visible on that page,where user can delete that post also.
